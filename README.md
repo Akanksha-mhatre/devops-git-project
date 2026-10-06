@@ -19,3 +19,4 @@ This project demonstrates Git and GitHub version-control best practices.
 ## Workflow
 
 Feature branch -> Dev branch -> Main branch
+This project demonstrates Git branching and Devops workflow.
